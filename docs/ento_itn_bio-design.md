@@ -1,4 +1,4 @@
-# Insecticide Treated Nets (ITN) { #ento-itn }
+# Insecticide Treated Nets (ITN) { #itn-activity }
 
 Insecticide treated nets (ITNs) are the most widely used vector control intervention and the one to which we owe the greatest share of gains in malaria burden reduction seen in Africa in the last decades. Insecticide treated nets are nets impregnated with an insecticide that serve two functions:
 
