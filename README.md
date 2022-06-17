@@ -1,2 +1,2 @@
-# ENTO-ITN
-Entomology &amp; Vector Control - Insecticide-Treated Nets
+# ENTO_ITN
+Entomology & Vector Control - Insecticide-Treated Nets
