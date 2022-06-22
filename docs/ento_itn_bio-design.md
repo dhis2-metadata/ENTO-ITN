@@ -2,7 +2,7 @@
 
 Insecticide treated nets (ITNs) are the most widely used vector control intervention and the one to which we owe the greatest share of gains in malaria burden reduction seen in Africa in the last decades. Insecticide treated nets are nets impregnated with an insecticide that serve two functions:
 
-1) to kill and repel mosquitoes that come in contact with the net; and
+1) to kill and repel mosquitoes that come in contact with the net and
 2) to create a physical barrier between mosquitoes and humans so that humans don’t get bitten by infected mosquitoes.
 
 ITNs are one of the two malaria vector control interventions recommended by WHO for large scale deployment.
@@ -26,7 +26,7 @@ WHO guidelines for testing ITN bioefficacy can be found [here](https://apps.who.
 
 ### Data Elements
 
-The full list of data elements is available in the [Metadata Reference File](resources/metadata.xlsx).
+The full list of data elements is available in the metadata reference file.
 
 Some of the DEs in this program could be shared with other E&VC programs.
 
@@ -98,13 +98,13 @@ The event will be recorded as completed and displayed in the working list as suc
 
 Some program rules have been applied at data entry in order to calculate the value of some DE. This use of the PRs removes the complexity of maintaining a great number of program 
 indicators, while guiding the user through the protocol (e.g. by telling him/her the needed exposure.
-The full list of PRs is available in the [Metadata Reference File](resources/metadata.xlsx).
+The full list of PRs is available in the metadata reference file.
 
 ### Analytics
 
 ### Program Indicators
 
-The list of PI is available in the [Metadata Reference File](resources/metadata.xlsx). The list of PIs can be expanded depending on local analytic needs.
+The list of PI is available in the metadata reference file. The list of PIs can be expanded depending on local analytic needs.
 
 ## Visualizations
 
