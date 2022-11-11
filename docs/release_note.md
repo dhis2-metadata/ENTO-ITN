@@ -1,4 +1,4 @@
-# Insecticide-Treated Nets - Bioefficacy
+# Insecticide-Treated Nets - Bioefficacy { #ento-itn-bio-release-note }
 
 ## 1.0.0
 
