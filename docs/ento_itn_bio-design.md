@@ -13,6 +13,8 @@ ITNs lose their mosquito killing or repelling capacity over time because the  in
 
 WHO guidelines for testing ITN bioefficacy can be found [here](https://apps.who.int/iris/bitstream/handle/10665/80270/9789241505277-eng.pdf?sequence=1&isAllowed=y).
 
+The linked [webinar](https://youtu.be/9NwZPWGkNsU) supports this design document and further clarifies the configuration and the use cases for this module.
+
 ### Event Configuration
 
 | Sections                               | Description                                                                                                                                                                                                                                      |
