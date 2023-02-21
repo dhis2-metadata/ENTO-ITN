@@ -11,7 +11,7 @@ ITNs are one of the two malaria vector control interventions recommended by WHO 
 
 ITNs lose their mosquito killing or repelling capacity over time because the  insecticide impregnated on them fades slowly away. The bio-efficacy of ITNs, namely, their capacity to kill susceptible mosquitoes over time, is monitored by measuring the percentage of susceptible mosquitoes that die within 24 hours of exposure to an impregnated net.  ITN bioefficacy is measured through a procedure called the WHO cone bioassay, which consists in attaching plastic cones to an impregnated net, introducing susceptible mosquitoes into them, leaving mosquitos in for 3 minutes to allow contact with the sprayed surface (exposure period) and measuring mosquito mortality 24 hours after the end of those 3min (holding period).
 
-![Example of cones](resources/images/ento-itn-bioeff-014_en.png)
+![Example of cones](resources/images/ento_itn_bioeff-014-en.png)
 
 WHO guidelines for testing ITN bioefficacy can be found [here](https://apps.who.int/iris/bitstream/handle/10665/80270/9789241505277-eng.pdf?sequence=1&isAllowed=y).
 
